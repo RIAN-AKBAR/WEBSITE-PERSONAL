@@ -13,7 +13,15 @@ php artisan up
 php artisan serve
 ```
 
-![Screenshot (35)](https://github.com/user-attachments/assets/ed6ec473-2ac8-4ea4-93e5-51036a1b8557)
+![Screenshot (41)](https://github.com/user-attachments/assets/2ffafdac-49a7-4269-9c55-1f187f333d77)
+
+selanjutnya cara mematikan nya
+```bash
+php artisan down
+```
+
+![Screenshot (42)](https://github.com/user-attachments/assets/4cf0b687-3498-4646-a880-bd5417db7c5e)
+
 
 
 ## Usage
