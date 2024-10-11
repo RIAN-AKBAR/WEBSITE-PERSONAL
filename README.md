@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-
+[Screenshot (34)](https://github.com/user-attachments/assets/a54762fd-6023-4efb-bb43-8da2df5f7a2b)
 
 ## Usage
 
@@ -19,7 +19,7 @@ import foobar
 
 # returns 'words'
 foobar.pluralize('word')
-![Screenshot (34)](https://github.com/user-attachments/assets/a54762fd-6023-4efb-bb43-8da2df5f7a2b)
+!
 
 # returns 'geese'
 foobar.pluralize('goose')
