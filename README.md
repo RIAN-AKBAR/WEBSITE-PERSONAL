@@ -6,8 +6,11 @@ Foobar is a Python library for dealing with word pluralization.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+cara jalanin laravel
 ```bash
-pip install foobar
+php artisan up
+
+php artisan serve
 ```
 
 ![Screenshot (35)](https://github.com/user-attachments/assets/ed6ec473-2ac8-4ea4-93e5-51036a1b8557)
